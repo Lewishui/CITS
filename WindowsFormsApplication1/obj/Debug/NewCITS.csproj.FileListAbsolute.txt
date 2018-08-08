@@ -1,0 +1,3 @@
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

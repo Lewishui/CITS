@@ -1,0 +1,12 @@
+D:\Dev Project\中国国际贸易单\CITS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Dev Project\中国国际贸易单\CITS\BLL\bin\Debug\BLL.dll
+D:\Dev Project\中国国际贸易单\CITS\BLL\bin\Debug\BLL.pdb
+D:\Dev Project\中国国际贸易单\CITS\BLL\bin\Debug\DAL.dll
+D:\Dev Project\中国国际贸易单\CITS\BLL\bin\Debug\Interop.SHDocVw.dll
+D:\Dev Project\中国国际贸易单\CITS\BLL\bin\Debug\Spring.Aop.dll
+D:\Dev Project\中国国际贸易单\CITS\BLL\bin\Debug\Spring.Core.dll
+D:\Dev Project\中国国际贸易单\CITS\BLL\bin\Debug\Common.Logging.dll
+D:\Dev Project\中国国际贸易单\CITS\BLL\bin\Debug\antlr.runtime.dll
+D:\Dev Project\中国国际贸易单\CITS\BLL\bin\Debug\DAL.pdb
+D:\Dev Project\中国国际贸易单\CITS\BLL\obj\Debug\BLL.dll
+D:\Dev Project\中国国际贸易单\CITS\BLL\obj\Debug\BLL.pdb

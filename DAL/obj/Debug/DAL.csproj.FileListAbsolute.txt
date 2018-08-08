@@ -1,0 +1,4 @@
+D:\Dev Project\中国国际贸易单\CITS\DAL\bin\Debug\DAL.dll
+D:\Dev Project\中国国际贸易单\CITS\DAL\bin\Debug\DAL.pdb
+D:\Dev Project\中国国际贸易单\CITS\DAL\obj\Debug\DAL.dll
+D:\Dev Project\中国国际贸易单\CITS\DAL\obj\Debug\DAL.pdb

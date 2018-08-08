@@ -1,0 +1,10 @@
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\bin\Debug\Interop.SHDocVw.dll
+D:\Dev Project\中国国际贸易单\CITS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WBlogin.resources

@@ -1,0 +1,14 @@
+D:\Dev Project\中国国际贸易单\CITS\CITS\bin\Debug\CITS.exe.config
+D:\Dev Project\中国国际贸易单\CITS\CITS\bin\Debug\CITS.exe
+D:\Dev Project\中国国际贸易单\CITS\CITS\bin\Debug\CITS.pdb
+D:\Dev Project\中国国际贸易单\CITS\CITS\obj\Debug\CITS.csprojResolveAssemblyReference.cache
+D:\Dev Project\中国国际贸易单\CITS\CITS\obj\Debug\CITS.Properties.Resources.resources
+D:\Dev Project\中国国际贸易单\CITS\CITS\obj\Debug\CITS.csproj.GenerateResource.Cache
+D:\Dev Project\中国国际贸易单\CITS\CITS\obj\Debug\CITS.exe
+D:\Dev Project\中国国际贸易单\CITS\CITS\obj\Debug\CITS.pdb
+D:\Dev Project\中国国际贸易单\CITS\CITS\obj\Debug\CITS.frmlogin.resources
+D:\Dev Project\中国国际贸易单\CITS\CITS\bin\Debug\BLL.dll
+D:\Dev Project\中国国际贸易单\CITS\CITS\bin\Debug\DAL.dll
+D:\Dev Project\中国国际贸易单\CITS\CITS\bin\Debug\Interop.SHDocVw.dll
+D:\Dev Project\中国国际贸易单\CITS\CITS\bin\Debug\BLL.pdb
+D:\Dev Project\中国国际贸易单\CITS\CITS\bin\Debug\DAL.pdb
